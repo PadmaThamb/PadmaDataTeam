@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PadmaThamb
+- 👋 Hi, I’m @PadmaDHF
 - 👀 I’m interested in learning git and github
 - 🌱 I’m currently learning dbt
 - 💞️ I’m looking to collaborate on mastering git
